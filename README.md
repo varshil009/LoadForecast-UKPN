@@ -95,6 +95,7 @@ The dataset is updated daily to ensure forecasts are based on the most recent da
 
 ## Acknowledgments
 
-This project utilizes data from the **UK Power Networks Open Data Portal**. We acknowledge their contribution to making this data openly available for research and development. [UKPN Data Portal link](https://ukpowernetworks.opendatasoft.com/
+This project utilizes data from the **UK Power Networks Open Data Portal**. We acknowledge their contribution to making this data openly available for research and development. 
+[UKPN Data Portal link](https://ukpowernetworks.opendatasoft.com/)
 
 ---
